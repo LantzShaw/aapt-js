@@ -1,6 +1,6 @@
 # aapt-js
 
-> NOTE: aapt-js is cloned from `https://github.com/shenzhim/aaptjs`.
+> aapt-js is cloned from shenzhim's [aaptjs](https://github.com/shenzhim/aaptjs) project.
 
 aapt-js is a node wraper for aapt. You can get information about `.apk` file which you provide, eg: bit version(32-bit or 64-bit), version and so on.  
 
