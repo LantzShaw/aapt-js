@@ -1,0 +1,21 @@
+{
+  "name": "aapt-js",
+  "version": "0.0.1",
+  "description": "A node wraper for aapt",
+  "main": "index.js",
+  "typings": "./index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "aapt",
+    "NodeJs"
+  ],
+  "author": {
+    "name": "Lantz <lantzshaw@163.com>"
+  },
+  "homepage": "https://github.com/LantzShaw/aapt-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LantzShaw/aapt-js.git"
+  },
+  "license": "MIT"
+}
