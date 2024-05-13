@@ -7,7 +7,7 @@ aapt-js is a node wraper for aapt. You can get information about `.apk` file whi
 ## Install
 
 ```
-npm install aapt-js --save
+npm install @litecase/aapt-js --save
 ```
 
 ## Example
