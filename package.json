@@ -1,6 +1,6 @@
 {
   "name": "@litecase/aapt-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A node wraper for aapt",
   "main": "index.js",
   "typings": "./index.d.ts",
