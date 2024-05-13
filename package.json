@@ -4,7 +4,10 @@
   "description": "A node wraper for aapt",
   "main": "index.js",
   "typings": "./index.d.ts",
-  "scripts": {},
+  "private": "false",
+  "scripts": {
+    "publish": "npm publish"
+  },
   "keywords": [
     "aapt",
     "NodeJs"
